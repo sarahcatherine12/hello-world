@@ -1,2 +1,3 @@
 # hello-world
-first project
+Hey! I'm pretty new to programming but hopefully that'll change. :)
+
